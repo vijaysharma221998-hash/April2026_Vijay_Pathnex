@@ -1,1 +1,0 @@
-Hi This is my day 12 of learning devops. Today I am learning K8s and YAML file related commands and it's structure.
